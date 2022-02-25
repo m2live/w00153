@@ -16,6 +16,17 @@
                     "hello.winesoft.co.kr"
                 ]
             }
+        },
+        {
+            "origin": {
+                "type": "basicOrigin",
+                "inputStream": "test",
+                "outputStream": "test",
+                "address": [
+                    "192.168.0.70"
+                ]
+            },
+            "name": "test"
         }
     ],
     "env": {
