@@ -2,7 +2,7 @@
     "meta": {
         "version": "1",
         "hostName": "example",
-        "admin": "admin@example.co",
+        "admin": "admin@example.com",
         "defaultHosting": "www.example.com"
     },
     "hosting": [
