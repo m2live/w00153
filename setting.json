@@ -5,30 +5,7 @@
         "admin": "admin@example.com",
         "defaultHosting": "www.example.com"
     },
-    "hosting": [
-        {
-            "name": "www.example.com",
-            "enable": true,
-            "listen": "*:80",
-            "origin": {
-                "protocol": "HTTP",
-                "address": [
-                    "hello.winesoft.co.kr"
-                ]
-            }
-        },
-        {
-            "origin": {
-                "type": "basicOrigin",
-                "inputStream": "test",
-                "outputStream": "test",
-                "address": [
-                    "192.168.0.70"
-                ]
-            },
-            "name": "test"
-        }
-    ],
+    "hosting": [],
     "env": {
         "log": {
             "info": {
